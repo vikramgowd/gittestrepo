@@ -1,9 +1,10 @@
 <h1> User added </h1>
 <h1> abcd and added by GUI. Conflicts is resolved </h1>
 <h1> added by GUI </h1>
-<<<<<<< HEAD
 <h1> Chnages are check with diff tool </h1>
+<<<<<<< HEAD
+<h1> changes for Rebase CMD </h1>
+<h1> Cheking for Rebase in new branch </h1>
 =======
-<h1> changes are Check with Diff tool (added by GUI) </h1>
-<h1> abc </h1>
->>>>>>> d086125707922adf9c6e3b808ab6af231a10e9db
+<h1> changes for checking Rebase </h1>
+>>>>>>> d2201449b28e5a02312489cc4a2bf243845865b6
